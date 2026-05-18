@@ -60,13 +60,13 @@ It does **not** need you to say the word "forensics" explicitly — phrasings li
 Either install via the skills CLI:
 
 ```bash
-npx skills add https://github.com/<your-username>/digital-forensics-case-guide
+npx skills add https://github.com/HashemALSKKkAF/digital-forensics-case-guide
 ```
 
 Or copy manually:
 
 ```bash
-git clone https://github.com/<your-username>/digital-forensics-case-guide.git
+git clone https://github.com/HashemALSKKkAF/digital-forensics-case-guide.git
 mkdir -p ~/.claude/skills/
 cp -r digital-forensics-case-guide ~/.claude/skills/
 ```
